@@ -4,15 +4,15 @@ Website profil **Posyandu (Pos Pelayanan Keluarga Berencana - Kesehatan Terpadu)
 
 Repositori ini adalah versi kode dari website yang sebelumnya dibuat di Google Sites.
 
+<img width="1832" height="975" alt="Screenshot" src="https://github.com/user-attachments/assets/8183d31c-98be-4333-9238-943f43596a1e" />
+
 ---
 
 ## Versi Google Sites
 
-Versi asli website ini dibuat dengan Google Sites dan bisa dibuka di sini:
+Versi yang dibuat dengan Google Sites dan bisa dibuka di sini:
 
 **https://sites.google.com/view/posyandugilangharjo/beranda**
-
-Halaman lainnya: [Dokumentasi](https://sites.google.com/view/posyandugilangharjo/dokumentasi) dan [Lokasi](https://sites.google.com/view/posyandugilangharjo/lokasi).
 
 ---
 
