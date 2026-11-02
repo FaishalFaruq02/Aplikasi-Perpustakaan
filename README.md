@@ -20,7 +20,7 @@ Versi yang dibuat dengan Google Sites dan bisa dibuka di sini:
 
 - **Beranda**: pengenalan Posyandu, tiga jenis Posyandu (Balita, Remaja, Lansia), tugas dan fungsi, serta visi dan misi.
 - **Dokumentasi**: galeri foto kegiatan dan sertifikat penghargaan.
-- **Lokasi**: peta lokasi kegiatan dengan Google Maps.
+- **Lokasi**: lokasi kegiatan.
 
 ---
 
